@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 .fa-sticky-note{
     color:orange;
     font-size: 50px;
